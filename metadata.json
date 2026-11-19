@@ -1,0 +1,6 @@
+{
+  "name": "BiblioPrêt - Gestion d'Emprunts de Bibliothèque",
+  "description": "Système professionnel de gestion des emprunts, retours, catalogue d'ouvrages, abonnés et relances de bibliothèque.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

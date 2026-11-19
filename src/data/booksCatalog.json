@@ -1,0 +1,992 @@
+[
+  {
+    "id": 1,
+    "titre": "Fondamentaux de Python",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Python, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Python" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Python" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080101-1",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 2,
+    "titre": "Guide pratique de Python",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2021,
+    "description": "Ouvrage pédagogique de niveau intermédiaire consacré à Python, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Python" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Python" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080102-8",
+    "niveau": "Intermédiaire"
+  },
+  {
+    "id": 3,
+    "titre": "Python : concepts et applications",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2022,
+    "description": "Ouvrage pédagogique de niveau avancé consacré à Python, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Python" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Python" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080103-5",
+    "niveau": "Avancé"
+  },
+  {
+    "id": 4,
+    "titre": "Fondamentaux de Java",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Java, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Java" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Java" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080104-2",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 5,
+    "titre": "Guide pratique de Java",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2021,
+    "description": "Ouvrage pédagogique de niveau intermédiaire consacré à Java, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Java" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Java" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080105-9",
+    "niveau": "Intermédiaire"
+  },
+  {
+    "id": 6,
+    "titre": "Java : concepts et applications",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2022,
+    "description": "Ouvrage pédagogique de niveau avancé consacré à Java, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Java" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Java" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080106-6",
+    "niveau": "Avancé"
+  },
+  {
+    "id": 7,
+    "titre": "Fondamentaux de C",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à C, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à C" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de C" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080107-3",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 8,
+    "titre": "Guide pratique de C",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2021,
+    "description": "Ouvrage pédagogique de niveau intermédiaire consacré à C, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à C" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de C" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080108-0",
+    "niveau": "Intermédiaire"
+  },
+  {
+    "id": 9,
+    "titre": "C : concepts et applications",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2022,
+    "description": "Ouvrage pédagogique de niveau avancé consacré à C, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à C" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de C" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080109-7",
+    "niveau": "Avancé"
+  },
+  {
+    "id": 10,
+    "titre": "Fondamentaux de C++",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à C++, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à C++" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de C++" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080110-3",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 11,
+    "titre": "Guide pratique de C++",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2021,
+    "description": "Ouvrage pédagogique de niveau intermédiaire consacré à C++, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à C++" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de C++" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080111-0",
+    "niveau": "Intermédiaire"
+  },
+  {
+    "id": 12,
+    "titre": "C++ : concepts et applications",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2022,
+    "description": "Ouvrage pédagogique de niveau avancé consacré à C++, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à C++" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de C++" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080112-7",
+    "niveau": "Avancé"
+  },
+  {
+    "id": 13,
+    "titre": "Fondamentaux de JavaScript",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à JavaScript, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à JavaScript" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de JavaScript" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080113-4",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 14,
+    "titre": "Guide pratique de JavaScript",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2021,
+    "description": "Ouvrage pédagogique de niveau intermédiaire consacré à JavaScript, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à JavaScript" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de JavaScript" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080114-1",
+    "niveau": "Intermédiaire"
+  },
+  {
+    "id": 15,
+    "titre": "JavaScript : concepts et applications",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Programmation",
+    "annee": 2022,
+    "description": "Ouvrage pédagogique de niveau avancé consacré à JavaScript, dans le domaine programmation. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à JavaScript" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de JavaScript" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080115-8",
+    "niveau": "Avancé"
+  },
+  {
+    "id": 31,
+    "titre": "Fondamentaux de UML",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Génie logiciel",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à UML, dans le domaine génie logiciel. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à UML" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de UML" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080131-8",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 34,
+    "titre": "Fondamentaux de Architecture logicielle",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Génie logiciel",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Architecture logicielle, dans le domaine génie logiciel. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Architecture logicielle" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Architecture logicielle" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080134-9",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 37,
+    "titre": "Fondamentaux de Tests logiciels",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Génie logiciel",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Tests logiciels, dans le domaine génie logiciel. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Tests logiciels" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Tests logiciels" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080137-0",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 40,
+    "titre": "Fondamentaux de Design patterns",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Génie logiciel",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Design patterns, dans le domaine génie logiciel. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Design patterns" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Design patterns" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080140-0",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 43,
+    "titre": "Fondamentaux de Méthodes agiles",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Génie logiciel",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Méthodes agiles, dans le domaine génie logiciel. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Méthodes agiles" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Méthodes agiles" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080143-1",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 46,
+    "titre": "Fondamentaux de DevOps",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Génie logiciel",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à DevOps, dans le domaine génie logiciel. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à DevOps" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de DevOps" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080146-2",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 52,
+    "titre": "Fondamentaux de Spring Boot",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Génie logiciel",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Spring Boot, dans le domaine génie logiciel. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Spring Boot" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Spring Boot" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080152-3",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 55,
+    "titre": "Fondamentaux de Git",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Génie logiciel",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Git, dans le domaine génie logiciel. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Git" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Git" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080155-4",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 61,
+    "titre": "Fondamentaux de TCP/IP",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Réseaux",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à TCP/IP, dans le domaine réseaux. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à TCP/IP" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de TCP/IP" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080161-5",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 64,
+    "titre": "Fondamentaux de Routage IP",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Réseaux",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Routage IP, dans le domaine réseaux. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Routage IP" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Routage IP" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080164-6",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 76,
+    "titre": "Fondamentaux de Cisco",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Réseaux",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Cisco, dans le domaine réseaux. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Cisco" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Cisco" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080176-9",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 85,
+    "titre": "Fondamentaux de Sécurité réseau",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Réseaux",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Sécurité réseau, dans le domaine réseaux. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Sécurité réseau" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Sécurité réseau" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080185-1",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 91,
+    "titre": "Fondamentaux de SQL",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Bases de données",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à SQL, dans le domaine bases de données. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à SQL" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de SQL" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080191-2",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 94,
+    "titre": "Fondamentaux de MySQL",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Bases de données",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à MySQL, dans le domaine bases de données. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à MySQL" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de MySQL" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080194-3",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 97,
+    "titre": "Fondamentaux de PostgreSQL",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Bases de données",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à PostgreSQL, dans le domaine bases de données. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à PostgreSQL" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de PostgreSQL" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080197-4",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 100,
+    "titre": "Fondamentaux de MongoDB",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Bases de données",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à MongoDB, dans le domaine bases de données. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à MongoDB" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de MongoDB" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080200-1",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 103,
+    "titre": "Fondamentaux de Modélisation Merise",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Bases de données",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Modélisation Merise, dans le domaine bases de données. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Modélisation Merise" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Modélisation Merise" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080203-2",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 121,
+    "titre": "Fondamentaux de Cryptographie",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Cybersécurité",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Cryptographie, dans le domaine cybersécurité. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Cryptographie" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Cryptographie" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080221-6",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 124,
+    "titre": "Fondamentaux de Sécurité web",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Cybersécurité",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Sécurité web, dans le domaine cybersécurité. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Sécurité web" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Sécurité web" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080224-7",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 145,
+    "titre": "Fondamentaux de Pare-feu",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Cybersécurité",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Pare-feu, dans le domaine cybersécurité. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Pare-feu" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Pare-feu" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080245-2",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 151,
+    "titre": "Fondamentaux de Machine learning",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Intelligence artificielle",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Machine learning, dans le domaine intelligence artificielle. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Machine learning" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Machine learning" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080251-3",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 154,
+    "titre": "Fondamentaux de Deep learning",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Intelligence artificielle",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Deep learning, dans le domaine intelligence artificielle. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Deep learning" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Deep learning" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080254-4",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 163,
+    "titre": "Fondamentaux de IA générative",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Intelligence artificielle",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à IA générative, dans le domaine intelligence artificielle. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à IA générative" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de IA générative" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080263-6",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 181,
+    "titre": "Fondamentaux de Algèbre linéaire",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Mathématiques",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Algèbre linéaire, dans le domaine mathématiques. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Algèbre linéaire" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Algèbre linéaire" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080281-0",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 187,
+    "titre": "Fondamentaux de Probabilités",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Mathématiques",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Probabilités, dans le domaine mathématiques. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Probabilités" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Probabilités" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080287-2",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 190,
+    "titre": "Fondamentaux de Statistiques",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Mathématiques",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Statistiques, dans le domaine mathématiques. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Statistiques" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Statistiques" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080290-2",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 205,
+    "titre": "Fondamentaux de Graphes",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Mathématiques",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Graphes, dans le domaine mathématiques. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Graphes" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Graphes" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080305-3",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 211,
+    "titre": "Fondamentaux de Linux",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Systèmes et cloud",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Linux, dans le domaine systèmes et cloud. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Linux" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Linux" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080311-4",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 217,
+    "titre": "Fondamentaux de Docker",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Systèmes et cloud",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Docker, dans le domaine systèmes et cloud. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Docker" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Docker" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080317-6",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 220,
+    "titre": "Fondamentaux de Kubernetes",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Systèmes et cloud",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Kubernetes, dans le domaine systèmes et cloud. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Kubernetes" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Kubernetes" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080320-6",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 223,
+    "titre": "Fondamentaux de Cloud computing",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Systèmes et cloud",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Cloud computing, dans le domaine systèmes et cloud. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Cloud computing" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Cloud computing" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080323-7",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 241,
+    "titre": "Fondamentaux de HTML et CSS",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Développement web",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à HTML et CSS, dans le domaine développement web. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à HTML et CSS" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de HTML et CSS" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080341-1",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 244,
+    "titre": "Fondamentaux de React",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Développement web",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à React, dans le domaine développement web. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à React" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de React" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080344-2",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 250,
+    "titre": "Fondamentaux de Node.js",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Développement web",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Node.js, dans le domaine développement web. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Node.js" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Node.js" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080350-3",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 253,
+    "titre": "Fondamentaux de API REST",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Développement web",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à API REST, dans le domaine développement web. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à API REST" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de API REST" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080353-4",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 262,
+    "titre": "Fondamentaux de TypeScript",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Développement web",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à TypeScript, dans le domaine développement web. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à TypeScript" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de TypeScript" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080362-6",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 271,
+    "titre": "Fondamentaux de Électronique numérique",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Sciences de l’ingénieur",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Électronique numérique, dans le domaine sciences de l’ingénieur. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Électronique numérique" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Électronique numérique" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080371-8",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 292,
+    "titre": "Fondamentaux de Systèmes embarqués",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Sciences de l’ingénieur",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Systèmes embarqués, dans le domaine sciences de l’ingénieur. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Systèmes embarqués" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Systèmes embarqués" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080392-3",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 295,
+    "titre": "Fondamentaux de IoT",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Sciences de l’ingénieur",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à IoT, dans le domaine sciences de l’ingénieur. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à IoT" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de IoT" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080395-4",
+    "niveau": "Débutant"
+  },
+  {
+    "id": 298,
+    "titre": "Fondamentaux de Économie de l’entreprise",
+    "auteur": "Collectif pédagogique",
+    "categorie": "Sciences de l’ingénieur",
+    "annee": 2020,
+    "description": "Ouvrage pédagogique de niveau débutant consacré à Économie de l’entreprise, dans le domaine sciences de l’ingénieur. Il présente les notions essentielles, des méthodes de travail et des applications concrètes adaptées aux étudiants de l’EST.",
+    "sommaire": [
+      { "chapitre": 1, "titre": "Introduction à Économie de l’entreprise" },
+      { "chapitre": 2, "titre": "Concepts fondamentaux de Économie de l’entreprise" },
+      { "chapitre": 3, "titre": "Méthodes et outils" },
+      { "chapitre": 4, "titre": "Exemples pratiques et études de cas" },
+      { "chapitre": 5, "titre": "Exercices et applications" },
+      { "chapitre": 6, "titre": "Projet de synthèse et perspectives" }
+    ],
+    "isbn": "978-2-10080398-5",
+    "niveau": "Débutant"
+  }
+]
